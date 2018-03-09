@@ -4,7 +4,7 @@ El _New Reset A.H.I.D._ es un sistema de gestión de evaluación de las comision
 
 ### Características y funcionalidades principales
 
-El código fuente se encuentra disponible para bajar desde el protal del_GitHub\_a través de la dirección_[_https://github.com/andgar2010/Project\_New\_Reset\_AIHD._](https://github.com/andgar2010/Project_New_Reset_AIHD.)_Su implementación fue realizada en\_Apache\_y\_PHP7\_o superior y el sistema de manejo de bases de datos en\_MySQL_.
+El código fuente se encuentra disponible para bajar desde el protal del_GitHub\_a través de la dirección_[_https://github.com/andgar2010/Project\_New\_Reset\_AIHD._](https://github.com/andgar2010/Project_New_Reset_AIHD.)_Su implementación fue realizada en *Apache* y *PHP7* o superior y el sistema de manejo de bases de datos en\_MySQL_.
 
 El sistema tiene varias funcionalidades y entre ellas se destacan:
 
