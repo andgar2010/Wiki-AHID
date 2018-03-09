@@ -1,4 +1,33 @@
-# Wiki New Reset A.I.H.D.
+![](https://github.com/andgar2010/Project_New_Reset_AIHD/raw/master/WEB/assets/images/LogoV2.png)
 
-[as]: www.google.com	"MANUAL TÉCNICO DE INSTALACIÓN"
+# MANUAL TÉCNICO DE INSTALACIÓN
+
+* Proyecto: NEW RESET A.I.H.D.
+
+* Versión 0.0.1
+
+| DESCRIPCIÓN | MANUAL DE INSTALACIÓN Y CONFIGURACIÓN NEW RESET A.I.H.D. |
+| :--- | :--- |
+|  |  |
+
+| ACTUALIZACIÓN | IDIOMA | REVISIÓN |
+| :---: | :---: | :---: |
+| 23/ene./2015 | ESPAÑOL | 0.0.1 |
+|  |  |  |
+
+### CONTROL DE REVISIONES
+
+| FECHA | RESPONSABLE | ACCIÓN |
+| :---: | :---: | :---: |
+| 07/mar./2018 | Andrés Felipe García Ramírez | Creación del Documento |
+| 7/mar./2018 | BIREME/MTI/RST/acs | Revisión del Documento |
+|  |  |  |
+
+## LICENCIA DEL SISTEMA
+
+_New Reset A.H.I.D. es una colaboración entre la Organización y la Universidad_. Todos los derechos son reservados a la _Organizacion_.
+
+
+
+© 2018 New Reset A.I.H.D., Inc.
 
