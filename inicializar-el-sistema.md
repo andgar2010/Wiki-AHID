@@ -1,6 +1,6 @@
 ## INICIALIZAR EL SISTEMA
 
-En el primer *login* el sistema se encuentra configurado préviamente con el usuario y contraseña abajo:
+En el primer *login* el sistema se encuentra configurado previamente con el usuario y contraseña abajo:
 
 | Usuario | Contraseña     |
 | :------ | :------------- |
