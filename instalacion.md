@@ -1,20 +1,20 @@
 ## INSTALACIÓN
 
-### Download del sistema
+### Descarga el instalador de sistema
 
 Hay dos modos para se instalar el sistema:
 
-* con versionamiento \(git\);
+* con versionamiento (git);
 
-* sin versionamento \(zip\).
+* sin versionamento (zip).
 
-#### Instalación a través de cliente_GIT_\(versionamiento\)
+#### Instalación a través de cliente *GIT* (versionamiento)
 
 Ese es el modo preferible para se instalar el sistema, porque se permite actualizar el aplicativo en modo simple y seguro, y también manteniendo las personalizaciones privadas, configuraciones generales del sistema etc.
 
-Para instalar el sistema por el cliente del_GIT_, escriba en la linea de comandos de_Linux_- bajo el directorio donde se desea instalar el paquete - el comando abajo:
+Para instalar el sistema por el cliente del *GIT*, escriba en la linea de comandos de *Linux*- bajo el directorio donde se desea instalar el paquete - el comando abajo:
 
-git clone git://github.com/bireme/proethos.git proethos
+	git clone git://github.com/bireme/proethos.git proethos
 
 #### Instalación por paquete zip
 
@@ -28,37 +28,37 @@ y haga un clic en el icono “Download ZIP” que se encuentra al lado derecho d
 
 ![](https://raw.githubusercontent.com/bireme/proethos/master/_documents/images/es/image007.png)
 
-Figura 1 - Icone para_Download_
+Figura 1 - Icono para *Download*
 
 Después del clic el sitio de GitHub proporcionará el paquete de la última versión para ser guardado en su computadora.
 
 ![](https://raw.githubusercontent.com/bireme/proethos/master/_documents/images/es/image008.png)
 
-Figura 2 - Download del_New Reset A.H.I.D.\_en formato\_ZIP_
+Figura 2 - Download del New Reset A.H.I.D. en formato *ZIP*
 
-Todo el contenido del archivo deberá ser despaquetado - se recomienda utilizar el aplicativo_WinRar_- y después transportar al servidor web que alojará el sistema.
+Todo el contenido del archivo deberá ser despaquetado - se recomienda utilizar el aplicativo *Bandizip* o *7-ZIP* en *Windows* - y después transportar al servidor web que alojará el sistema.
 
 ![](https://raw.githubusercontent.com/bireme/proethos/master/_documents/images/es/image010.png)
 
 Figura 3 - Estructura de archivos
 
-Se recomienda el envio de los archivos por_FTP\_o utilizar la instalación del sistema en directo a través del software del\_GitHub\_para servidores\_Linux_.
+Se recomienda el envio de los archivos por *FTP* o utilizar la instalación del sistema en directo a través del software del *GitHub* para servidores *Linux*..
 
-### Crear una base de datos en el servidor_MySQL_
+### Crear una base de datos en el servidor *MySQL*
 
-Crea una base de datos en el servidor_MySQL\_con el nombre de_'proethos\_' - o el nombre que mejor se adapta al servidor instalado o a los criterios de seguridad de la institución. Los datos de ejemplo en seguida serán necesarios para la conexión:
+Crea una base de datos en el servidor *MySQL* con el nombre de *'newReset'* - o el nombre que mejor se adapta al servidor instalado o a los criterios de seguridad de la institución. Los datos de ejemplo en seguida serán necesarios para la conexión:
 
-| Requisito | Valor\(ejemplo\) |
-| :--- | :--- |
-| Servidor | localhost |
-| Base de datos | xxNameDBxx |
-| Usuario | sa\_xxNameUserxx |
-| Contraseña | **\*\*** |
-| Servidor de BD | MySQL |
+| Requisito 	 | Valor (ejemplo) 	|
+| :------------- | :--------------- |
+| Servidor		 | localhost	   	|
+| Base de datos  | xxNameDBxx	   	|
+| Usuario 		 | sa\_xxNameUserxx |
+| Contraseña 	 | \*\*\*\*\*\* 	|
+| Servidor de BD | MySQL 			|
 
-Este archivo solamente será creado una vez. Cualquier cambio en los parámetros del sistema, el archivo de configuración deberá ser borrado del sistema por el administrador técnico a través del_FTP_.
+Este archivo solamente será creado una vez. Cualquier cambio en los parámetros del sistema, el archivo de configuración deberá ser borrado del sistema por el administrador técnico a través del *FTP*.
 
-El archivo de configuración es creado en el directorio\_\_db\_bajo el directorio raíz del sistema.
+El archivo de configuración es creado en el directorio *_db* bajo el directorio raíz del sistema.
 
 ### Activación de la conexión con la base de datos
 
@@ -68,25 +68,25 @@ En el primero acceso del sistema es necesario tener las configuraciones del arch
 htttp://localhost:8080/
 ```
 
-Si el archivo\_\_db/db\_paho.php\_no es localizado, el sistema redirecciona para el area de configuración, presentando la pantalla de la figura 4.
+Si el archivo *_db/db_paho.php* no es localizado, el sistema redirecciona para el area de configuración, presentando la pantalla de la figura 4.
 
 ![](https://raw.githubusercontent.com/bireme/proethos/master/_documents/images/es/image012.png)
 
-Figura 4 - Pantalla de configuración do archivo_DB_
+Figura 4 - Pantalla de configuración do archivo *DB*
 
-En esa pantalla se debe informar el tipo de base de datos \(Base Type\), con una de las opciones:
+En esa pantalla se debe informar el tipo de base de datos *(Base Type)*, con una de las opciones:
 
-* \_MySQL\_para se conectar a la base de datos\_MySQL\_a través del método mysql\_connect\(\), común en na mayoría de los servidores.
+* *MySQL* para se conectar a la base de datos *MySQL* a través del método *mysql_connect()* , común en na mayoría de los servidores.
 
-* \_MySQL\(PDO\)\_para acceder la base de datos MySQL utilizando un driver con interfaz PHP Data Objects \(PDO\). Esa función es utilizada cuando el servidor informa que el método mysql\_connect\(\) es obsoleto.
+* *MySQL (PDO)* para acceder la base de datos MySQL utilizando un driver con interfaz PHP Data Objects (PDO). Esa función es utilizada cuando el servidor informa que el método mysql_connect() es obsoleto.
 
-En el campo\_Database host\_se debe informar el\_IP\_o el nombre del servidor de la base de datos. Se puede utilizar\_localhost\_cuando la base se encuentra en el mismo servidor.
+En el campo *Database host* se debe informar el *IP* o el nombre del servidor de la base de datos. Se puede utilizar *localhost* cuando la base se encuentra en el mismo servidor.
 
-Los otros campos se refieren a la conexión con la base de datos, como el nombre de la base \(_Database name_\), usuario de conexión \(_User name_\) y la contraseña \(_Password_\). En caso de error, el sistema informa en una caja de texto abajo los problema encuentrados. Si todo estuvier configurado correctamente, el archivo\_db\_paho.php\_es creado automáticamente, informando el mensaje de éxito.
+Los otros campos se refieren a la conexión con la base de datos, como el nombre de la base *(Database name)*, usuario de conexión *(User name)* y la contraseña *(Password)*. En caso de error, el sistema informa en una caja de texto abajo los problema encuentrados. Si todo estuvier configurado correctamente, el archivo *_db\paho.php* es creado automáticamente, informando el mensaje de éxito.
 
 ### Creación manual del archivo de acceso a la base de datos
 
-Se puede optar por crear el archivo_\_db/db\_paho.php\_manualmente, el caso que no se desea habilitar permisos de escritura para el usuario del\_Apache\_en esta carpeta. Si es así, se debe crear el archivo con el contenido abajo, personalizado para cada servidor. Se debe guardar ese archivo en el subdirectorio_\_db_con el nombre\_db\_paho.php_.
+Se puede optar por crear el archivo *_db/db_paho.php* manualmente, el caso que no se desea habilitar permisos de escritura para el usuario del *Apache* en esta carpeta. Si es así, se debe crear el archivo con el contenido abajo, personalizado para cada servidor. Se debe guardar ese archivo en el subdirectorio *_db* con el nombre *db/paho.php*.
 
 
 
