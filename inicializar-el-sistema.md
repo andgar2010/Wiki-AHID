@@ -4,7 +4,7 @@ En el primer *login* el sistema se encuentra configurado previamente con el usua
 
 | Usuario | Contraseña |
 | :--- | :--- |
-| admin | \*\* xxpasswordxx \*\* |
+| admin | \*\*xxpasswordxx \*\* |
 
 Es necesario que al iniciar el sistema tiene que executar en el MENÚ del ADMINISTRADOR las funciones Actualizar sistema y Actualizar campos del sistema
 

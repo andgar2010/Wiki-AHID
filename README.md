@@ -12,7 +12,7 @@
 
 | ACTUALIZACIÓN | IDIOMA | REVISIÓN |
 | :---: | :---: | :---: |
-| 23/ene./2015 | ESPAÑOL | 0.0.1 |
+| 12/mar./2018 | ESPAÑOL | 0.0.1 |
 |  |  |  |
 
 ### CONTROL DE REVISIONES
@@ -20,7 +20,7 @@
 | FECHA | RESPONSABLE | ACCIÓN |
 | :---: | :---: | :---: |
 | 07/mar./2018 | Andrés Felipe García Ramírez | Creación del Documento |
-| 7/mar./2018 | BIREME/MTI/RST/acs | Revisión del Documento |
+| 07/mar./2018 | BIREME/MTI/RST/acs | Revisión del Documento |
 |  |  |  |
 
 ## LICENCIA DEL SISTEMA
