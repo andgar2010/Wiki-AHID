@@ -1,14 +1,14 @@
 ## CONFIGURACIÓN
 
-###Crear la estructura del archivo e instalar New Reset A.I.H.D.
+### Crear la estructura del archivo e instalar New Reset A.I.H.D.
 
-(_Texto en producción_\)
+*(Texto en producción)*
 
 
 
 ### Configuración de los datos de la Comisión
 
-\(_Texto en producción_\)
+*(Texto en producción)*
 
 
 
