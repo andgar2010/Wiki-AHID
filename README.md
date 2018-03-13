@@ -25,7 +25,7 @@
 
 ## LICENCIA DEL SISTEMA
 
-_New Reset A.H.I.D. es una colaboración entre la Organización y la Universidad_. Todos los derechos son reservados a la _Organizacion_.
+*New Reset A.H.I.D. es una colaboración entre la Organización y la Universidad.* Todos los derechos son reservados a la *Organizacion*.
 
 
 
