@@ -7,20 +7,20 @@
 * Versión 0.0.1
 
 | DESCRIPCIÓN | MANUAL DE INSTALACIÓN Y CONFIGURACIÓN NEW RESET A.I.H.D. |
-| :--- | :--- |
+| :---------- | :------------------------------------------------------- |
 |  |  |
 
-| ACTUALIZACIÓN | IDIOMA | REVISIÓN |
-| :---: | :---: | :---: |
-| 12/mar./2018 | ESPAÑOL | 0.0.1 |
+| ACTUALIZACIÓN | IDIOMA  | REVISIÓN |
+| :-----------: | :-----: | :------: |
+| 12/mar./2018  | ESPAÑOL | 0.0.1    |
 |  |  |  |
 
 ### CONTROL DE REVISIONES
 
-| FECHA | RESPONSABLE | ACCIÓN |
-| :---: | :---: | :---: |
+| FECHA        | RESPONSABLE                  | ACCIÓN                 |
+| :----------: | :--------------------------: | :--------------------: |
 | 07/mar./2018 | Andrés Felipe García Ramírez | Creación del Documento |
-| 07/mar./2018 | BIREME/MTI/RST/acs | Revisión del Documento |
+| 07/mar./2018 | BIREME/MTI/RST/acs           | Revisión del Documento |
 |  |  |  |
 
 ## LICENCIA DEL SISTEMA
