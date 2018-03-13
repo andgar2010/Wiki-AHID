@@ -133,13 +133,13 @@ y haga un clic en el icono “Download ZIP” que se encuentra al lado derecho d
 
 Después del clic el sitio de GitHub proporcionará el paquete de la última versión para ser guardado en su computadora.
 
-![NewResetDownloadFromGitHub](C:\xampp\htdocs\Wiki-AHID\attachments\NewResetDownloadFromGitHub.png)
+![NewResetDownloadFromGitHub](attachments/NewResetDownloadFromGitHub.png)
 
 ​					     Figura 2 - Download del New Reset A.H.I.D. en formato *ZIP*
 
 Todo el contenido del archivo deberá ser despaquetado - se recomienda utilizar el aplicativo *Bandizip* o *7-ZIP* en *Windows* - y después transportar al servidor web que alojará el sistema.
 
-![NewResetHtdocsFolder](C:\xampp\htdocs\Wiki-AHID\attachments\NewResetHtdocsFolder.png)
+![NewResetHtdocsFolder](attachments/NewResetHtdocsFolder.png)
 
 ​								Figura 3 - Estructura de archivos
 
@@ -163,27 +163,7 @@ El archivo de configuración es creado en el directorio *_db* bajo el directorio
 
 ### Activación de la conexión con la base de datos
 
-En el primero acceso del sistema es necesario tener las configuraciones del archivo de conexión con la base de datos. Para que eso pueda occurir, se accede el sistema en su página de instalación a través de cualquier navegador de internet, ej:
-
-```
-htttp://localhost:8080/
-```
-
-Si el archivo *_db/db_paho.php* no es localizado, el sistema redirecciona para el area de configuración, presentando la pantalla de la figura 4.
-
-![](https://raw.githubusercontent.com/bireme/proethos/master/_documents/images/es/image012.png)
-
-Figura 4 - Pantalla de configuración _db archivo *DB*
-
-En esa pantalla se debe informar el tipo de base de datos *(Base Type)*, con una de las opciones:
-
-* *MySQL* para se conectar a la base de datos *MySQL* a través del método *mysql_connect()* , común en na mayoría de los servidores.
-
-* *MySQL (PDO)* para acceder la base de datos MySQL utilizando un driver con interfaz PHP Data Objects (PDO). Esa función es utilizada cuando el servidor informa que el método mysql_connect() es obsoleto.
-
-En el campo *Database host* se debe informar el *IP* o el nombre del servidor de la base de datos. Se puede utilizar *localhost* cuando la base se encuentra en el mismo servidor.
-
-Los otros campos se refieren a la conexión con la base de datos, como el nombre de la base *(Database name)*, usuario de conexión *(User name)* y la contraseña *(Password)*. En caso de error, el sistema informa en una caja de texto abajo los problema encuentrados. Si todo estuvier configurado correctamente, el archivo *_db\paho.php* es creado automáticamente, informando el mensaje de éxito.
+*(Texto en producción)*
 
 ### Creación manual del archivo de acceso a la base de datos
 
