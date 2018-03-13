@@ -1,4 +1,4 @@
-##Licencia para el uso de New Reset A.I.H.D. 
+## Licencia para el uso de New Reset A.I.H.D. 
 
 (_Texto en producción_\)
 
