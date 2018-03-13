@@ -1,6 +1,6 @@
-##Descargo de responsabilidad  - Legal Disclaimer 
+## Descargo de responsabilidad  - Legal Disclaimer 
 
-(_Texto en producción_\)
+*(Texto en producción\)*
 
 La New Reset Team no es, ni será, responsable por el mantenimiento, la seguridad, el correcto funcionamiento o la inaccesibilidad de la información que se ingrese a este sistema. 
 
@@ -10,5 +10,5 @@ La New Reset Team no es, ni será, responsable de la integridad de la informaci�
 
 
 
-######New Reset A.I.H.D. es una colaboración entre la *Organización*  y la *Universidad* ©
-######New Reset A.I.H.D. © *Organización* , 2018
+###### New Reset A.I.H.D. es una colaboración entre la *Organización*  y la *Universidad* ©
+###### New Reset A.I.H.D. © *Organización* , 2018
