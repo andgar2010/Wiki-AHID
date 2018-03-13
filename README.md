@@ -17,10 +17,10 @@
 
 ### CONTROL DE REVISIONES
 
-| FECHA        | RESPONSABLE                  | ACCIÓN                 |
-| :----------: | :--------------------------: | :--------------------: |
-| 07/mar./2018 | Andrés Felipe García Ramírez | Creación del Documento |
-| 07/mar./2018 | BIREME/MTI/RST/acs           | Revisión del Documento |
+| FECHA        | RESPONSABLE   | ACCIÓN                 |
+| :----------: | :-----------: | :--------------------: |
+| 07/mar./2018 | Andrés García | Creación del Documento |
+| d/m./yyyy    | nombreRevisor | Revisión del Documento |
 |  |  |  |
 
 ## LICENCIA DEL SISTEMA
@@ -30,4 +30,3 @@
 
 
 © 2018 New Reset A.I.H.D., Inc.
-
