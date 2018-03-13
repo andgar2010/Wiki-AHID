@@ -1,8 +1,8 @@
 ## INSTALACIÓN
 
-##Cómo instalar New Reset A.I.H.D. en Windows
+## Cómo instalar New Reset A.I.H.D. en Windows
 
-###XAMPP
+### XAMPP
 
 El XAMPP gestionará Apache2, PHP, MySQL y PHPMyAdmin en su servidor.
 
@@ -49,7 +49,7 @@ GRANT ALL PRIVILEGES ON xxNameUserxx.* to xxNameDBxx@localhost;
 
 
 
-###Git
+### Git
 
 Git se utilizará para descargar el proyecto.
 * Instalar Git ir a [este enlace](https://git-scm.com/download/win) y descargar la última versión de software.
@@ -76,7 +76,7 @@ Git se utilizará para descargar el proyecto.
 
 
 
-###Composer
+### Composer
 
 * Haz un clic derecho en el escritorio y elige Abrir "Git Bash Here".
 * Ejecutar los comandos siguientes:
@@ -92,7 +92,7 @@ cd c:/xampp/php
 
 //
 
-###wkhtmltopdf
+### wkhtmltopdf
 
 * Acceder al enlace https://wkhtmltopdf.org/downloads.html y descargue la última versión según su sistema operativo.
 
@@ -101,7 +101,7 @@ cd c:/xampp/php
 
 
 
-##Descarga el instalador de sistema New Reset A.I.H.D.
+## Descarga el instalador de sistema New Reset A.I.H.D.
 
 Hay dos modos para se instalar el sistema:
 
@@ -149,13 +149,13 @@ Se recomienda el envio de los archivos por *FTP* o utilizar la instalación del 
 
 Crea una base de datos en el servidor *MySQL* con el nombre de *'xxNameDBxx'* - o el nombre que mejor se adapta al servidor instalado o a los criterios de seguridad de la institución. Los datos de ejemplo en seguida serán necesarios para la conexión:
 
-| Requisito 	 | Valor (ejemplo) 	|
+| Requisito 	 | Valor (ejemplo)  |
 | :------------- | :--------------- |
-| Servidor		 | localhost	   	|
-| Base de datos  | xxNameDBxx	   	|
-| Usuario 		 | sa\_xxNameUserxx |
-| Contraseña 	 | \*\*\*\*\*\* 	|
-| Servidor de BD | MySQL 			|
+| Servidor	 | localhost	    |
+| Base de datos  | xxNameDBxx	    |
+| Usuario	 | sa\_xxNameUserxx |
+| Contraseña 	 | \*\*\*\*\*\*	    |
+| Servidor de BD | MySQL 	    |
 
 Este archivo solamente será creado una vez. Cualquier cambio en los parámetros del sistema, el archivo de configuración deberá ser borrado del sistema por el administrador técnico a través del *FTP*.
 
@@ -187,7 +187,7 @@ Los otros campos se refieren a la conexión con la base de datos, como el nombre
 
 ### Creación manual del archivo de acceso a la base de datos
 
-Se puede optar por crear el archivo *_db/db_paho.php* manualmente, el caso que no se desea habilitar permisos de escritura para el usuario del *Apache* en esta carpeta. Si es así, se debe crear el archivo con el contenido abajo, personalizado para cada servidor. Se debe guardar ese archivo en el subdirectorio *_db* con el nombre *db/paho.php*.
+*(Texto en producción)*
 
 
 
