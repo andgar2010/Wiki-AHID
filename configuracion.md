@@ -28,7 +28,73 @@ NOTA: El caso que hubo personalización en alguna parte del código del aplicati
 
 
 
+
 © 2018 New Reset A.I.H.D., Inc.
+
+
+
+  
+    
+     
+      
+       
+     
+      
+       
+        
+         
+          
+           
+            
+             
+  
+    
+     
+      
+       
+     
+      
+       
+        
+         
+          
+           
+            
+             
+              
+               
+                
+                 
+                  
+                   
+                    
+                     
+                      
+              
+               
+                
+                 
+                  
+                   
+                    
+                     
+                      
+
+     
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
